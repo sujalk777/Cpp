@@ -1,2 +1,0 @@
-minimumspanning.cpp
-#include<iostream>
